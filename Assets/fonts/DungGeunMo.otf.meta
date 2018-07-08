@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: addf0c5f649878b4690936284e224837
+timeCreated: 1506241252
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DungGeunMo
+  fontNames:
+  - DungGeunMo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

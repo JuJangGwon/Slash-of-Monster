@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 92d6c17567ea9e448a003f409b453186
+timeCreated: 1506082862
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KOMACON
+  fontNames:
+  - KOMACON
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
